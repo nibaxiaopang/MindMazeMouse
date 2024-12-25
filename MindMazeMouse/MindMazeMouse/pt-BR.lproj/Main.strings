@@ -1,0 +1,45 @@
+
+/* Class = "UITextView"; text = "Welcome to MindMaze Mouse, a game designed to challenge and stimulate your mind with fun and engaging puzzles. Our mission is to combine learning and entertainment, offering a variety of tricky questions and interactive levels that test your intelligence, creativity, and problem-solving skills. Whether you’re a puzzle enthusiast or just looking for a way to relax and unwind, TheMindMaze Mouse is the perfect choice. With carefully crafted challenges for all ages, this game encourages logical thinking and creativity while providing an enjoyable experience.\n\nCreated with passion by a team of puzzle lovers, TheMindMaze Mouse is more than just a game—it’s a journey to unlock your potential. We believe in making learning fun and accessible to everyone. Thank you for choosing TheMindMaze Mouse. If you have feedback or need assistance, feel free to reach out at support@thebrainquests.com. Let’s embark on this brain-tickling adventure together!"; ObjectID = "04J-FD-oSj"; */
+"04J-FD-oSj.text" = "Welcome to MindMaze Mouse, a game designed to challenge and stimulate your mind with fun and engaging puzzles. Our mission is to combine learning and entertainment, offering a variety of tricky questions and interactive levels that test your intelligence, creativity, and problem-solving skills. Whether you’re a puzzle enthusiast or just looking for a way to relax and unwind, TheMindMaze Mouse is the perfect choice. With carefully crafted challenges for all ages, this game encourages logical thinking and creativity while providing an enjoyable experience.\n\nCreated with passion by a team of puzzle lovers, TheMindMaze Mouse is more than just a game—it’s a journey to unlock your potential. We believe in making learning fun and accessible to everyone. Thank you for choosing TheMindMaze Mouse. If you have feedback or need assistance, feel free to reach out at support@thebrainquests.com. Let’s embark on this brain-tickling adventure together!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0K3-id-kLM"; */
+"0K3-id-kLM.text" = "Label";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "J0W-B7-q0y"; */
+"J0W-B7-q0y.text" = "About us";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "Ja9-W4-UkE"; */
+"Ja9-W4-UkE.text" = "Setting";
+
+/* Class = "UILabel"; text = "Brain Test Question"; ObjectID = "LNz-ch-fbQ"; */
+"LNz-ch-fbQ.text" = "Brain Test Question";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "NJC-0y-Y8y"; */
+"NJC-0y-Y8y.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "LAVEL - 1"; ObjectID = "Qyi-N8-Tcu"; */
+"Qyi-N8-Tcu.text" = "LAVEL - 1";
+
+/* Class = "UILabel"; text = "LEVELS"; ObjectID = "V1h-wf-XRK"; */
+"V1h-wf-XRK.text" = "LEVELS";
+
+/* Class = "UILabel"; text = "PRIVACY POLICY"; ObjectID = "dRQ-bu-eHE"; */
+"dRQ-bu-eHE.text" = "PRIVACY POLICY";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "fwV-al-4VO"; */
+"fwV-al-4VO.text" = "ABOUT US";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "gai-HO-VuT"; */
+"gai-HO-VuT.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hu7-sy-fxc"; */
+"hu7-sy-fxc.text" = "Label";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "mY4-Zx-eNQ"; */
+"mY4-Zx-eNQ.text" = "Feedback";
+
+/* Class = "UILabel"; text = "FEEDBACK"; ObjectID = "nyN-Ua-tjC"; */
+"nyN-Ua-tjC.text" = "FEEDBACK";
+
+/* Class = "UILabel"; text = "01"; ObjectID = "v9y-2i-2kG"; */
+"v9y-2i-2kG.text" = "01";
