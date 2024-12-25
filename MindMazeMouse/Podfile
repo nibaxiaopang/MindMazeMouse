@@ -6,5 +6,6 @@ target 'MindMazeMouse' do
   use_frameworks!
 
   # Pods for MindMazeMouse
-
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

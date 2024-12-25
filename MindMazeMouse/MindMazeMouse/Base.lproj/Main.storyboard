@@ -95,6 +95,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="gVU-be-i9r"/>
+                    <connections>
+                        <outlet property="STBtn" destination="gai-HO-VuT" id="2Go-el-Jod"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6mx-gV-wKN" sceneMemberID="firstResponder"/>
             </objects>
@@ -147,7 +150,7 @@ MindMaze Mouse</string>
                                             <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         </collectionViewFlowLayout>
                                         <cells>
-                                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="LevelCell" id="3NC-EC-Rcx" customClass="MindMazeLevelCell" customModule="The_Brain_Quest_S" customModuleProvider="target">
+                                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="LevelCell" id="3NC-EC-Rcx" customClass="MindMazeLevelCell" customModule="MindMazeMouse" customModuleProvider="target">
                                                 <rect key="frame" x="41" y="0.0" width="130" height="132"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="md0-Ei-34U">
@@ -620,7 +623,7 @@ Created with passion by a team of puzzle lovers, TheMindMaze Mouse is more than 
         <!--Mind Maze Pri VacyVC-->
         <scene sceneID="7rJ-lw-MPx">
             <objects>
-                <viewController storyboardIdentifier="PriVacyVC" id="fRI-ha-s5p" customClass="MindMazePriVacyVC" customModule="MindMazeMouse" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MindMazePriVacyVC" id="fRI-ha-s5p" customClass="MindMazePriVacyVC" customModule="MindMazeMouse" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ovw-cQ-IU9">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -674,6 +677,13 @@ Created with passion by a team of puzzle lovers, TheMindMaze Mouse is more than 
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="c3R-iz-eg9"/>
+                    <connections>
+                        <outlet property="backButton" destination="uxm-w1-ys5" id="UA3-S4-Pdc"/>
+                        <outlet property="bottomCos" destination="SK7-3Q-v3r" id="iYx-rc-5kL"/>
+                        <outlet property="indicatorView" destination="By7-O4-HNG" id="t5l-PB-dlk"/>
+                        <outlet property="mindMazeWebView" destination="osc-Bo-vrZ" id="8gc-kc-46d"/>
+                        <outlet property="topCos" destination="IS0-qH-cpa" id="ky1-eZ-iAz"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="b1D-3q-KAC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1011,7 +1021,7 @@ Created with passion by a team of puzzle lovers, TheMindMaze Mouse is more than 
                                                             <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                                         </collectionViewFlowLayout>
                                                         <cells>
-                                                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BrainsCell" id="gok-Up-TrG" customClass="MindMazeBrainsCell" customModule="The_Brain_Quest_S" customModuleProvider="target">
+                                                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BrainsCell" id="gok-Up-TrG" customClass="MindMazeBrainsCell" customModule="MindMazeMouse" customModuleProvider="target">
                                                                 <rect key="frame" x="0.0" y="0.0" width="68" height="56"/>
                                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                 <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="gU4-ib-xwu">
@@ -1243,7 +1253,7 @@ Created with passion by a team of puzzle lovers, TheMindMaze Mouse is more than 
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemTealColor">
-            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.18823529410000001" green="0.69019607839999997" blue="0.78039215689999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
